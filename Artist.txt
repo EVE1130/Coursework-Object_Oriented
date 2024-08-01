@@ -1,0 +1,11 @@
+Cecily Brown,Abstract,Alive,1700,3400
+Takashi Murakami,Visual,Alive,1500,3000
+Wolfgang Tillmans,Abstract,Alive,2400,4900
+Enrique Báster,Cubism,Alive,3600,4500
+Etel Adnan,Visual,Dead,3000,4900
+Vija Celmins,Photography,Alive,1400,5400
+Georgia O'Keeffe,Visual,Dead,2600,5500
+Bridget Riley,Cubism,Alive,2800,3900
+Jumper Maybach,Abstract,Alive,1600,3900
+Christophe Jacrot,Photography,Alive,2300,4900
+
